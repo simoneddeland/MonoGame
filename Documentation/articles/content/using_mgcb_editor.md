@@ -34,11 +34,11 @@ Once you have a project set up you can add content to it for building. You can d
 
 ![Edit menu](~/images/content/mgcb_addexisting.png)
 
-Selecting “New Item...” will bring up the New Item dialog which displays a list of new items that can be created:
+Selecting “New Item...” will bring up the New Item dialog which displays a list of new items that can be created. This is useful when adding a SpriteFont to your project.
 
 ![New item](~/images/content/mgcb_newitem.png)
 
-When you select “Existing Item...”, you get to select an existing item from disk to add to the content project.
+When you select “Existing Item...”, you get to select an existing item from disk to add to the content project. This is useful for adding images and sound files.
 
 ## Built-in Content Importers and Processors
 
