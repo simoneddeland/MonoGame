@@ -1,6 +1,6 @@
 # Tutorials
 
-Check out the awesome work of the larger MonoGame community with their own tutorials, blogs and videos.
+Check out the awesome work of the larger MonoGame community with their own tutorials, blogs and videos. Many of them were originally created for Microsoft XNA but they will still work fine for MonoGame.
 
 > If you have a blog or article on MonoGame and wish to have it recognized here, reach out to the MonoGame team using the [support links listed on the help page](help_and_support.md).
 
