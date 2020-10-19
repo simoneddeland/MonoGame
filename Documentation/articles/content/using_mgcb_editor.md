@@ -40,6 +40,8 @@ Selecting “New Item...” will bring up the New Item dialog which displays a l
 
 When you select “Existing Item...”, you get to select an existing item from disk to add to the content project. This is useful for adding images and sound files.
 
+The editor used to have drag-and-drop support previously but this was dropped in a later version.
+
 ## Built-in Content Importers and Processors
 
 MonoGame provides default Importers (File Read) and Processors (File Transform) methods for handling almost all standard content which is automatically selected for known content types. In most cases, you do not need to alter these settings when adding content. The lists below highlight the default configuration options for each file type.
