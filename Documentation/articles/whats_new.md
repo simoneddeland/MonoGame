@@ -14,7 +14,7 @@ With this release MonoGame has moved away from traditional installers and has op
 
 ## Visual Studio 2019 and .NET Core CLI templates
 
-We now have templates for both Windows and macOS versions of Visual Studio 2019 as well as templates for the .NET Core CLI tools.
+We now have templates for both Windows and macOS versions of Visual Studio 2019 as well as templates for the .NET Core CLI tools. Older versions ( <= 3.7 ) did not natively support Visual Studio 2019.
 
 ## SDK-Style Projects in the repository
 
